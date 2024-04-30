@@ -3,7 +3,7 @@
  * @Author: jiangwh
  * @Date: 2024-04-28 15:49:07
  * @LastEditors: jiangwh
- * @LastEditTime: 2024-04-29 16:57:31
+ * @LastEditTime: 2024-04-30 14:28:14
  */
 import type { Config } from "tailwindcss";
 
@@ -29,6 +29,9 @@ const config = {
         dark: {
           1: "#1C1F2E",
           2: "#161925",
+        },
+        blue: {
+          1: "#0E78F9",
         },
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
